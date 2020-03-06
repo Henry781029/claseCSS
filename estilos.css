@@ -13,7 +13,38 @@ h3{
     text-align: justify;
 }
 
-body{background-color: chocolate;
+.bodyprincipal {
+    
+    background-color: chocolate;
 
 }
 
+.headerindex {
+
+    background-color: green;
+
+}
+
+.headerpagina1 {
+
+    background-color: blue;
+    
+}
+
+
+.imagenfondo{
+
+    background-image: url(https://www.eltiempo.com/files/article_main/files/crop/uploads/2017/11/01/59fa791b40570.r_1555067232540.0-869-3000-2369.jpeg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+
+.textorojo{
+
+    color: red;
+
+}
