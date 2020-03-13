@@ -44,7 +44,15 @@ h3{
 }
 
 .textorojo{
-
     color: red;
+}
 
+table{
+    border: 2px solid;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+tr:hover{
+    background-color: gray;
 }
